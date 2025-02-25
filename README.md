@@ -2,6 +2,8 @@
 
 Crypto Spammer is a project designed to study the behavior of email security tools, allowing file modifications and testing security detection mechanisms.
 
+![image](https://github.com/user-attachments/assets/90275f1d-b986-4265-b922-645a542da85e)
+
 ## 📌 Features
 
 - **Rename Files** (`rename_files.py`): Renames files inside the `Files` folder using sequential numbers, making detection by common names more difficult.
